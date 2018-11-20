@@ -1,0 +1,12 @@
+{
+  "name": "magpie-client",
+  "version": "0.0.1",
+  "description": "NodeJS client for https://magpie.im/",
+  "main": "index.js",
+  "repository": "git@github.com:davalapar/magpie-client.git",
+  "author": "davalapar <davalapar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^9.3.2"
+  }
+}
